@@ -1,5 +1,6 @@
 from turtle import *
 import turtle as tur
+import winsound
 tur= tur.Turtle()
 
 tur.penup()
@@ -114,5 +115,7 @@ for _ in range(200):
 tur.forward(40)
 
 tur.end_fill()
+
+
 
 

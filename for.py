@@ -91,12 +91,12 @@ tur.penup()
 tur.goto(0,310)  
 tur.pendown()
 tur.color("black")  
-tur.write("Te amo mi trululu", align="center", font=("Stencil", 45, "italic"))
+tur.write("Te amo mi trululu 💕", align="center", font=("Stencil", 20, "italic"))
 
 
 
 tur.penup()
-tur.goto(330, 310)  
+tur.goto(120, 110)  
 tur.pendown()
 
 

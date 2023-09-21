@@ -3,6 +3,10 @@ import turtle as tur
 import winsound
 tur= tur.Turtle()
 
+winsound.PlaySound('floricienta.wav', winsound.SND_ASYNC)
+
+bgcolor("pink")
+
 tur.penup()
 tur.left(90)
 tur.fd(200)
